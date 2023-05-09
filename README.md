@@ -1,6 +1,10 @@
 # JS Interview Questions and Answers
 
-We will cover a variety of JS questions ranging from basic to advanced. Let's get started!
+
+#### Want HTML Questions Visit [Here](https://github.com/PrgVaibhav/HTML_InterviewQuestions)
+#### Want CSS Questions Visit [Here](https://github.com/PrgVaibhav/CSS_Interview_Questions)
+
+> We will cover a variety of JS questions ranging from basic to advanced. Let's get started!
 ## Question 1: What is JavaScript?
 
 JavaScript is a scripting language used to create interactive and dynamic web pages. It is often used for client-side scripting, where it is executed in the user's web browser, but it can also be used for server-side scripting with Node.js.
